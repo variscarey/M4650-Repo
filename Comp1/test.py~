@@ -1,0 +1,4 @@
+from secfun import secret_func
+
+f=secret_func()
+print f.eval(1)
