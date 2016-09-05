@@ -3,8 +3,8 @@ str="Hello M4650,"
 # In python you can concatentate strings using the addition(+) operator
 print(str + " my name is Varis Carey, and I'm the repo owner")
 # Add your hello statment below this line of code
+print(str + " my name is Robert Iordache and I'm a pusher, and I'm standing still.")
 print(str + " my name is Cody Smith and I'm a pusher")
-print(str + " my name is Robert Iordache and I'm a pusher")
 print(str + " my name is Andrew Bentley")
 print(str + " my name is Yunzhou Li")
 print(str + " my name is Liam Flannagan")
