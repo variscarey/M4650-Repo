@@ -26,5 +26,6 @@ print(str + " my name is Zack Foreman and I'm a pusher")
 print(str + " my name is Ramy Shim")
 print(str + " my name is David Pontecorvo")
 print(str + " my name is Quyen Nguyen")
-print(str + " my name is Lily Dam")
-print(str + "My name is Talia McFadden.")
+print(str + " my name is Lily Dam and I'm a pusher.")
+print(str + " my name is Talia McFadden and I am pusher")
+
