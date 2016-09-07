@@ -16,7 +16,7 @@ print(str + " my name is Chetan Sharma and I'm a pusher, and I'm standing still.
 print(str + " my name is Nikolai Sharp and I'm a pusher, and I'm standing still.")
 print(str + " my name is Cody Smith and I'm a pusher, and I'm standing still.")
 print(str + " my name is Kaiqi Zhang and I'm a pusher, and I'm standing still.")
-print(str + " my name is Jianwei Zou")
+print(str + " my name is Jianwei Zou and I'm a pusher, and I'm standing still.")
 print(str + " my name is Sean Adams and I'm a pusher")
 print(str + " my name is Ed Salisbury")
 print(str + " my name is Preston Trimble")
