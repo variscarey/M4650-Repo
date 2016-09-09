@@ -1,4 +1,4 @@
-# Set up the Hello World string
+﻿# Set up the Hello World string
 str="Hello M4650,"
 # In python you can concatentate strings using the addition(+) operator
 print(str + " my name is Varis Carey, and I'm the repo owner")
@@ -22,8 +22,8 @@ print(str + " my name is Preston Trimble")
 print(str + " my name is David Andrews and I'm a pusher, and I'm standing still.")
 print(str + " my name is Cameron Bramwell and I'm a pusher, and I'm standing still")
 print(str + " my name is Zack Foreman and I'm a pusher, and I'm standing still.")
-print(str + " my name is Ramy Shim")
 print(str + " my name is David Pontecorvo, I'm a pusher, and I'm standing still")
+print(str + " my name is Ramy Shim and I am a pusher.”)
 print(str + " my name is Lily Dam and I'm a pusher, and I'm standing still")
 print("VC is lurking in the class")
 print(str + " my name is Talia McFadden and I am pusher")
