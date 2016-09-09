@@ -23,7 +23,7 @@ print(str + " my name is David Andrews and I'm a pusher, and I'm standing still.
 print(str + " my name is Cameron Bramwell and I'm a pusher, and I'm standing still")
 print(str + " my name is Zack Foreman and I'm a pusher, and I'm standing still.")
 print(str + " my name is Ramy Shim")
-print(str + " my name is David Pontecorvo")
+print(str + " my name is David Pontecorvo, I'm a pusher, and I'm standing still")
 print(str + " my name is Lily Dam and I'm a pusher, and I'm standing still")
 print("VC is lurking in the class")
 print(str + " my name is Talia McFadden and I am pusher")
